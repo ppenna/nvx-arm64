@@ -1,4 +1,4 @@
 [submodule "openvmm"]
 	path = openvmm
-	url = https://github.com/nanvix/openvmm.git
-	branch = main
+	url = https://github.com/ppenna/openvmm-arm64.git
+	branch = arm64-kvm-microvm
